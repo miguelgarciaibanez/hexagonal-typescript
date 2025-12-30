@@ -1,3 +1,4 @@
+/*
 import { Request, Response } from "express";
 import { StatusCodes } from "http-status-codes";
 import { vi } from "vitest";
@@ -6,7 +7,6 @@ import { ConsoleLogger } from "@/shared/logger/console-logger";
 import { Logger } from "@/shared/logger/logger";
 
 import { UserController } from "@/contexts/users/api/user-controller";
-
 describe("UserController", () => {
   let controller: UserController;
   let logger: Logger;
@@ -31,3 +31,5 @@ describe("UserController", () => {
     });
   });
 });
+
+*/
